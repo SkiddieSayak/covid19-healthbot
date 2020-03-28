@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Mediflic | COVID-19 Self Assessment</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Mediflic is one of the best medical tourism companies in India. This is not only a doctor booking App but a complete medical tourism facilitator.">
+<link rel="shortcut icon" href="images/fav.ico">
+<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">-->
+<!--<link rel="stylesheet" href="https://unpkg.com/botui@0.3.9/build/botui.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/botui@0.3.9/build/botui-theme-default.css" />-->
+<link rel="stylesheet" href="css/theme.css" />
+<style type="text/css"></style>
+</head>
+<body>
+<div id="mediflic-covid19-app">
+  <header class="header">
+    <div class="container"> <!--<a href="#" target="_blank"> <img src="https://mediflic.com/uploads/settings/general/1584697934-2020-03-20.png" alt="Mediflic" class="logo"> </a>-->
+    <div class="container"> <a href="#" target="_blank"> <img src="images/logo.png" alt="Mediflic" class="logo"> </a>
+      <h1>Corona Virus Self Assessment</h1>
+      <a href="#" target="_blank" class="fake">
+            <img src="https://mediflic.com/uploads/settings/general/1584697934-2020-03-20.png" alt="Mediflic" class="logo">
+          </a> 
+    </div>
+    </div>
+  </header>
+  <div class="botui-app-container" id="mediflic-covid19-bot">
+    <bot-ui></bot-ui>
+  </div>
+</div>
+<!--<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script> 
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.min.js"></script> 
+<script src="https://cdn.jsdelivr.net/npm/botui@0.3.9/build/botui.min.js"></script> -->
+<script src="js/jquery-3.2.1.min.js" ></script> 
+<script src="js/vue.min.js"></script> 
+<script src="js/botui.min.js"></script> 
+<script src="./bot-script.js"></script>
+		<script>
+		$(document).one('focus','.phone',function(){
+			$('.phone').before(`<div class='pre' ><select id="country-code"><option value="IN">+ 91</option><option value="BD">+ 880</option><option value="SA">+ 966</option><option value="Other">Other</option></select></div>`);
+			$('.pre').parent().attr('class','phone_form');
+			$('.phone').attr('pattern','[0-9]{10}');
+});</script>
+</body>
+</html>

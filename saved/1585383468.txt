@@ -1,0 +1,26 @@
+----- Data Collection ------- 
+ 
+ USERS IP Info DUMP : {"country_code":"BD","country_name":"Bangladesh","city":"Dhaka","postal":"1209","latitude":23.7552,"longitude":90.3731,"IPv4":"43.245.123.13","state":"Dhaka"}
+
+
+ USERS CITY IS : Dhaka
+ Name : Noor Muhammad 
+ Phone Number : 1846831302
+ AGE : 26
+ GENDER : M
+ BODY TEMP : a
+ VISITED COUNTRY : None
+ SYMPTOMS : Sneezing
+ OTHER SYMPTOMS : LossAppetite
+ EXPOSURE : ContactWithFlu, None
+ HEALTH CONDITIONS : None
+ CHANGE IN SYMPTOMS : I
+ RESULT :  <h3 class="result_h3" style="">Chance of infection- Medium </h3>
+ ![product image](https://healthbot.mediflic.com/COVID-19_BOT/images/mediflic-risk-assesment-medium.png) 
+
+We recommend:<br>
+                &nbsp;&nbsp;•Consult with the doctor.<br>
+                &nbsp;&nbsp;•Start home isolation on an immediate basis.<br>
+                &nbsp;&nbsp;•As per your doctor’s advice, go for laboratory tests and COVID 19 testing.<br>
+                &nbsp;&nbsp;•Keep a check on your symptoms and keep updating your doctor. If the situation worsens immediately seek medical attention.<br><br>
+                For any more queries, feel free to reach us at care@mediflic.com

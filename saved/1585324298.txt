@@ -1,0 +1,26 @@
+----- Data Collection ------- 
+ 
+ USERS IP Info DUMP : {"country_code":"IN","country_name":"India","city":"Bengaluru","postal":"560067","latitude":12.9833,"longitude":77.5833,"IPv4":"171.76.82.16","state":"Karnataka"}
+
+
+ USERS CITY IS : Bengaluru
+ Name : Shakthi vinayaka 
+ Phone Number : 8147142177
+ AGE : 25
+ GENDER : M
+ BODY TEMP : a
+ VISITED COUNTRY : None
+ SYMPTOMS : None
+ OTHER SYMPTOMS : None
+ EXPOSURE : None
+ HEALTH CONDITIONS : None
+ CHANGE IN SYMPTOMS : None
+ RESULT :  <h3 class="result_h3" style="" >Chance of infection- Low </h3>
+![product image](https://healthbot.mediflic.com/COVID-19_BOT/images/mediflic-risk-assesment-low.png) 
+
+We recommend:<br>
+                    &nbsp;&nbsp;•Stay home.<br>
+                    &nbsp;&nbsp;•Maintain social distancing as much as possible.<br>
+                    &nbsp;&nbsp;•Take preventive measures.<br>
+                    &nbsp;&nbsp;•If any symptom arises, get in touch with a doctor as soon as possible.<br><br>
+                    For any more queries, feel free to reach us at care@mediflic.com

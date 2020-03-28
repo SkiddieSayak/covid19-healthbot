@@ -1,0 +1,26 @@
+----- Data Collection ------- 
+ 
+ USERS IP Info DUMP : {"country_code":"IN","country_name":"India","city":"Kolkata","postal":"700059","latitude":22.5697,"longitude":88.3697,"IPv4":"223.191.18.71","state":"West Bengal"}
+
+
+ USERS CITY IS : Kolkata
+ Name : Md Mohsin Akhtar
+ Phone Number : 8777350829
+ AGE : 31
+ GENDER : M
+ BODY TEMP : a
+ VISITED COUNTRY : None
+ SYMPTOMS : DryCough
+ OTHER SYMPTOMS : None
+ EXPOSURE : None
+ HEALTH CONDITIONS : None
+ CHANGE IN SYMPTOMS : W
+ RESULT :  <h3 class="result_h3" style="">Chance of infection- Medium </h3>
+ ![product image](https://healthbot.mediflic.com/COVID-19_BOT/images/mediflic-risk-assesment-medium.png) 
+
+We recommend:<br>
+                &nbsp;&nbsp;•Consult with the doctor.<br>
+                &nbsp;&nbsp;•Start home isolation on an immediate basis.<br>
+                &nbsp;&nbsp;•As per your doctor’s advice, go for laboratory tests and COVID 19 testing.<br>
+                &nbsp;&nbsp;•Keep a check on your symptoms and keep updating your doctor. If the situation worsens immediately seek medical attention.<br><br>
+                For any more queries, feel free to reach us at care@mediflic.com

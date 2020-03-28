@@ -1,0 +1,26 @@
+----- Data Collection ------- 
+ 
+ USERS IP Info DUMP : {"country_code":"BD","country_name":"Bangladesh","city":"Sylhet","postal":"3104","latitude":24.9328,"longitude":91.8739,"IPv4":"180.211.179.30","state":"Sylhet"}
+
+
+ USERS CITY IS : Sylhet
+ Name : Hhijdj
+ Phone Number : 1199956325
+ AGE : 34
+ GENDER : M
+ BODY TEMP : a
+ VISITED COUNTRY : UK
+ SYMPTOMS : Weakness, ShortnessOfBreath
+ OTHER SYMPTOMS : Painchest
+ EXPOSURE : None
+ HEALTH CONDITIONS : LungDisease
+ CHANGE IN SYMPTOMS : I
+ RESULT :  <h3 class="result_h3" style="" >Chance of infection- Low </h3>
+![product image](https://healthbot.mediflic.com/COVID-19_BOT/images/mediflic-risk-assesment-low.png) 
+
+We recommend:<br>
+                    &nbsp;&nbsp;•Stay home.<br>
+                    &nbsp;&nbsp;•Maintain social distancing as much as possible.<br>
+                    &nbsp;&nbsp;•Take preventive measures.<br>
+                    &nbsp;&nbsp;•If any symptom arises, get in touch with a doctor as soon as possible.<br><br>
+                    For any more queries, feel free to reach us at care@mediflic.com

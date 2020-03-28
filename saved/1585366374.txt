@@ -1,0 +1,26 @@
+----- Data Collection ------- 
+ 
+ USERS IP Info DUMP : {"country_code":"BD","country_name":"Bangladesh","city":"Dhaka","postal":"1000","latitude":23.729,"longitude":90.4112,"IPv4":"103.67.157.72","state":"Dhaka"}
+
+
+ USERS CITY IS : Dhaka
+ Name : S
+ Phone Number : 4585548524
+ AGE : 24
+ GENDER : M
+ BODY TEMP : a
+ VISITED COUNTRY : None
+ SYMPTOMS : ShortnessOfBreath
+ OTHER SYMPTOMS : None
+ EXPOSURE : None
+ HEALTH CONDITIONS : None
+ CHANGE IN SYMPTOMS : None
+ RESULT :  <h3 class="result_h3" style="" >Chance of infection- Low </h3>
+![product image](https://healthbot.mediflic.com/COVID-19_BOT/images/mediflic-risk-assesment-low.png) 
+
+We recommend:<br>
+                    &nbsp;&nbsp;•Stay home.<br>
+                    &nbsp;&nbsp;•Maintain social distancing as much as possible.<br>
+                    &nbsp;&nbsp;•Take preventive measures.<br>
+                    &nbsp;&nbsp;•If any symptom arises, get in touch with a doctor as soon as possible.<br><br>
+                    For any more queries, feel free to reach us at care@mediflic.com

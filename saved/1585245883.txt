@@ -1,0 +1,21 @@
+----- Data Collection ------- 
+ 
+ Name : nazib
+ Phone Number : 01722813938
+ AGE : 26
+ GENDER : M
+ BODY TEMP : c
+ VISITED COUNTRY : IRA
+ SYMPTOMS : DryCough
+ OTHER SYMPTOMS : Painchest
+ EXPOSURE : ContactWithCorona
+ HEALTH CONDITIONS : Diabetes
+ CHANGE IN SYMPTOMS : WR
+ RESULT :  <h3 class="result_h3" style="">Chance of infection- High </h3>
+ ![product image](https://healthbot.mediflic.com/COVID-19_BOT/images/mediflic-risk-assesment-high.png) 
+
+We recommend:<br> 					&nbsp;&nbsp;•Immediately seek medical attention.<br>
+                &nbsp;&nbsp;•Get yourself tested.<br>
+                &nbsp;&nbsp;•Contact your regular or nearest available doctor.<br>
+                &nbsp;&nbsp;•Monitor your symptoms and isolate yourself.<br><br>
+                For any more queries, feel free to reach us at care@mediflic.com

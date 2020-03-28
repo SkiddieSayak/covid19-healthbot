@@ -1,0 +1,26 @@
+----- Data Collection ------- 
+ 
+ USERS IP Info DUMP : {"country_code":"BD","country_name":"Bangladesh","city":"Khulna","postal":"9100","latitude":22.8174,"longitude":89.5648,"IPv4":"27.147.190.137","state":"Khulna"}
+
+
+ USERS CITY IS : Khulna
+ Name : Bitu
+ Phone Number : 1708156016
+ AGE : 50
+ GENDER : M
+ BODY TEMP : a
+ VISITED COUNTRY : None
+ SYMPTOMS : None
+ OTHER SYMPTOMS : None
+ EXPOSURE : ContactWithFlu
+ HEALTH CONDITIONS : None, HighBP
+ CHANGE IN SYMPTOMS : None
+ RESULT :  <h3 class="result_h3" style="" >Chance of infection- Low </h3>
+![product image](https://healthbot.mediflic.com/COVID-19_BOT/images/mediflic-risk-assesment-low.png) 
+
+We recommend:<br>
+                    &nbsp;&nbsp;•Stay home.<br>
+                    &nbsp;&nbsp;•Maintain social distancing as much as possible.<br>
+                    &nbsp;&nbsp;•Take preventive measures.<br>
+                    &nbsp;&nbsp;•If any symptom arises, get in touch with a doctor as soon as possible.<br><br>
+                    For any more queries, feel free to reach us at care@mediflic.com

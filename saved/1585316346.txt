@@ -1,0 +1,22 @@
+----- Data Collection ------- 
+ 
+ Name : Samir Dahotre 
+ Phone Number : 7666020701
+ AGE : 46
+ GENDER : M
+ BODY TEMP : a
+ VISITED COUNTRY : CN
+ SYMPTOMS : DryCough, Sneezing
+ OTHER SYMPTOMS : SuddenChills
+ EXPOSURE : ContactWithFlu
+ HEALTH CONDITIONS : Diabetes
+ CHANGE IN SYMPTOMS : WR
+ RESULT :  <h3 class="result_h3" style="">Chance of infection- Medium </h3>
+ ![product image](https://healthbot.mediflic.com/COVID-19_BOT/images/mediflic-risk-assesment-medium.png) 
+
+We recommend:<br>
+                &nbsp;&nbsp;•Consult with the doctor.<br>
+                &nbsp;&nbsp;•Start home isolation on an immediate basis.<br>
+                &nbsp;&nbsp;•As per your doctor’s advice, go for laboratory tests and COVID 19 testing.<br>
+                &nbsp;&nbsp;•Keep a check on your symptoms and keep updating your doctor. If the situation worsens immediately seek medical attention.<br><br>
+                For any more queries, feel free to reach us at care@mediflic.com
